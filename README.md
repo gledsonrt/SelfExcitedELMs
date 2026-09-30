@@ -13,7 +13,7 @@ This repository accompanies the benchmark presented in
 learning machines*](https://www.emerald.com/jbren/article-abstract/doi/10.1680/jbren.25.00003/1393399/Modelling-non-linear-aeroelastic-loads-in-long).
 The paper investigates ELMs as efficient surrogate models for non-linear,
 motion-induced aerodynamic loads in long-span bridges. It evaluates the
-approach using an analytical flat-plate problem and bridge-deck data.
+approach using an analytical flat-plate problem and bridge-deck data. A preprint of the paper is available at [*arXiv*](https://arxiv.org/abs/2609.33274).
 
 The code here provides the fully runnable, analytical flat-plate part of that
 study. It is intended as a compact and reproducible reference implementation:
